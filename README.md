@@ -25,3 +25,7 @@ This Java-based recommendation system lays the groundwork for AI-powered persona
 I am used visual studio code IDE for this project.
 
 ##output: 
+![Image](https://github.com/user-attachments/assets/13eeffd0-4c06-4e82-a7a4-9f0fc6121c3b)
+![Image](https://github.com/user-attachments/assets/65784bff-0b33-4eed-8a4e-c0918f763fc7)
+![Image](https://github.com/user-attachments/assets/f06edbca-bbfa-4c49-a7fc-4ac7af395a4d)
+![Image](https://github.com/user-attachments/assets/aa072f21-3966-401b-a061-91967217f082)
